@@ -1,1 +1,1 @@
-# flex-panel
+# flex-panel/javascript
